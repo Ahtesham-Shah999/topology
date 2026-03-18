@@ -1,0 +1,21 @@
+{
+  "name": "topology",
+  "version": "1.0.0",
+  "description": "Topology website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000 --directory public",
+    "build": "echo 'Build complete - static files ready'",
+    "start": "python -m http.server 8000 --directory public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahtesham-Shah999/topology.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahtesham-Shah999/topology/issues"
+  },
+  "homepage": "https://github.com/Ahtesham-Shah999/topology#readme"
+}
